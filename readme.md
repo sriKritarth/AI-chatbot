@@ -30,3 +30,10 @@ A modular, LangGraph-powered AI chatbot with a Streamlit frontend and Python bac
 ```bash
 git clone https://github.com/sriKritarth/AI-chatbot.git
 cd AI-chatbot
+
+### 2. Create and activate virtual envviroment
+python -m venv .venv
+# Windows
+.venv\Scripts\activate
+# macOS/Linux
+source .venv/bin/activate
