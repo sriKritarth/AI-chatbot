@@ -72,7 +72,7 @@ streamlit run streamlit_frontend.py
 streamlit run streamlit_frontend_threading.py
 ```
 
-### 🧠 How It Works
+# 🧠 How It Works
 
 Frontend (Streamlit): Provides a simple chat interface.
 
